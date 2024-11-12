@@ -2,8 +2,8 @@
     task.wait()
  until game:IsLoaded()
  
- if not isfile("anti.solutions") then
-    makefolder("anti.solutions")
+ if not isfile("oblivity.hook") then
+    makefolder("oblivity.hook")
  end
  
  ---// Variables
